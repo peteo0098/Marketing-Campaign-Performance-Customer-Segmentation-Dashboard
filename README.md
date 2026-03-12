@@ -1,11 +1,11 @@
 #  Marketing Campaign Performance & Customer Segmentation Dashboard
 
-[![View on GitHub](https://imgshields.io/badge/View_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/peteo0098/Marketing-Campaign-Performance-Customer-Segmentation-Dashboard)
+[![View on GitHub](https://github.com/peteo0098/Marketing-Campaign-Performance-Customer-Segmentation-Dashboard)
 
 ## Project Overview
 This project focuses on analyzing customer data and marketing campaign performance to identify key purchasing trends, optimal customer segments, and campaign effectiveness. The final output is an interactive Power BI dashboard that provides actionable insights for the marketing team to optimize future budget allocation.
 
-![Marketing Dashboard](Marketing%20Dasboard.png)
+![Marketing Dashboard](https://github.com/peteo0098/Marketing-Campaign-Performance-Customer-Segmentation-Dashboard/blob/main/Marketing%20Dashboard.png)
 
 ##  Business Problem
 The marketing department needed a clear, high-level overview of their customer base and the ROI of their recent campaigns. Key questions answered by this dashboard include:
@@ -27,7 +27,7 @@ The original dataset from Kaggle was provided as a single, wide flat file. To en
 2. **Dimension Tables:** Extracted and unpivoted campaign responses into a `Dim_Campaigns` table and purchasing channels into a `Dim_Purchases` table.
 3. Linked them via a 1-to-Many relationship using a unique Customer `ID`.
 
-![Data Model](Makreting%20model%20view.png)
+![Data Model](https://github.com/peteo0098/Marketing-Campaign-Performance-Customer-Segmentation-Dashboard/blob/main/Marketing%20model%20view.png)
 
 ## Key DAX Measures Created
 * `Total Revenue = SUM(Marketing_Campaign[MntTotal])`
@@ -45,7 +45,6 @@ The original dataset from Kaggle was provided as a single, wide flat file. To en
 * `Marketing Dashboard.pbix` - The fully functional interactive Power BI file containing the data model and visuals.
 * `Marketing Dashoard.png` - A high-resolution static export of the final dashboard.
 * `Marketing model view.png` - A screenshot showcasing the Star Schema data model.
-* `Dataset/` - Folder containing the raw CSV data (if applicable).
 
 ---
 *Created by [peteo0098](https://github.com/peteo0098)*
