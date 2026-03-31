@@ -1,4 +1,8 @@
-Marketing Campaign Performance & Customer Segmentation Dashboard ![View on GitHub](https://github.com/peteo0098/Marketing-Campaign-Performance-Customer-Segmentation-Dashboard ### Overview of the Project The primary goal of this project is to provide an analysis of customers and their responses to marketing through data analysis of customer and marketing campaign results. We will be creating an interactive Power BI dashboard which will enable the marketing team to use this data to inform their future budget distribution decisions.
+Marketing Campaign Performance & Customer Segmentation Dashboard 
+
+![View on GitHub](https://github.com/peteo0098/Marketing-Campaign-Performance-Customer-Segmentation-Dashboard)
+
+### Overview of the Project The primary goal of this project is to provide an analysis of customers and their responses to marketing through data analysis of customer and marketing campaign results. We will be creating an interactive Power BI dashboard which will enable the marketing team to use this data to inform their future budget distribution decisions.
 
 Business Problem
   
