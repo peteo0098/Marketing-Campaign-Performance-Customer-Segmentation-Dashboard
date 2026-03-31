@@ -26,7 +26,6 @@ Age = YEAR(TODAY()) - 'Marketing Campaign'[Year_Birth] (Grouped in 10 year bins 
   
   This Repository Contains Files: 1. The complete interactive Power BI model with data and visuals is in Marketing Dashboard.pbix 2. The final version of the dashboard image is in Marketing Dashoard.png. It has been exported as a high-quality image.
 
-Marketing model view.png - A screenshot showcasing the Star Schema data model.
-
+![Marketing Model View](https://github.com/peteo0098/Marketing-Campaign-Performance-Customer-Segmentation-Dashboard/raw/main/Marketing%20model%20view.png)
 
 Created by peteo0098
